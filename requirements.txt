@@ -1,0 +1,12 @@
+tensorboardX
+tqdm
+easydict
+prettytable
+chumpy
+opencv-python
+imageio-ffmpeg
+matplotlib
+roma
+ipdb
+pandas
+h5py
